@@ -10,17 +10,18 @@ https://metamask.io/download.html
 
 3 - **Add Extension**
 
-![add](Images/addExtensionMetamask.png)
+<img src="Images/addExtensionMetamask.png" alt="drawing" width="300"/>
+
 
 ## Setup Metamask
 
 1 - **Open Metamask**
 
-![add](Images/openMetamask.png)
+<img src="Images/openMetamask.png" alt="drawing" width="300"/>
 
 2 - **Choose between Import Backup or New Wallet**
 
-![add](Images/newMetamask.png)
+<img src="Images/newMetamask.png" alt="drawing" width="300"/>
 
 In this tutorial we will click in **Create a Wallet**
 
@@ -28,32 +29,33 @@ In this tutorial we will click in **Create a Wallet**
 
 Basically the team Metamask say that all your data are storage only local and don't send it to any server. 
 
-![add](Images/termsUseMetamask.png)
+<img src="Images/termsUseMetamask.png" alt="drawing" width="300"/>
 
 4 - **Define a password**
 
 I personally like of password with minimum of 14 digits that include Letter LowerCase, Letter UpperCase, Numbers, Character Especial.
 
-![add](Images/passwordMetamask.png)
+<img src="Images/passwordMetamask.png" alt="drawing" width="300"/>
 
 5 - **PLEASE DO BACKUP OF YOUR WALLET**
 
-![add](Images/backupMetamask.png)
+<img src="Images/backupMetamask.png" alt="drawing" width="300"/>
 
 6 - **Wallet was created**
 
-![add](Images/wallet.png)
+<img src="Images/wallet.png" alt="drawing" width="300"/>
 
 ## Setup for use in development
 
 1 - Alter network for Rinkeby
 
+<img src="Images/wallet.png" alt="drawing" width="300"/>
 ![add](Images/network.png)
 
 
 2 - Copy your Address Ethereum in metamask wallet
 
-![add](Images/address.png)
+<img src="Images/address.png" alt="drawing" width="300"/>
 
 For Example: 
 ```
@@ -62,7 +64,7 @@ For Example:
 
 3 - Past your address in any social network in public mode. I'll use the Twitter.
 
-![add](Images/twitter.png)
+<img src="Images/twitter.png" alt="drawing" width="300"/>
 
 4 - Copy link of publication and access Rinkeby Faucet
 
@@ -72,11 +74,11 @@ https://www.rinkeby.io/#faucet
 
 5 - Past link of your publication and select 18.75 ETH.
 
-![add](Images/rinkenbyFaucet.png)
+<img src="Images/rinkenbyFaucet.png" alt="drawing" width="300"/>
 
 6 - loading and your wallet metamask will have 18.75 ETH.
 
-![add](Images/walletWithEther.png)
+<img src="Images/walletWithEther.png" alt="drawing" width="300"/>
 
 ## Development a Simple Website HTML
 
