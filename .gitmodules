@@ -1,0 +1,3 @@
+[submodule "HashiCorp-Vault-post-medium"]
+	path = HashiCorp-Vault-post-medium
+	url = https://github.com/Dkdaniz/HashiCorp-Vault-post-medium
